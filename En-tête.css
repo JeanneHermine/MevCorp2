@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(117, 35, 35);
+    height: 150px;
+    font-style: 30px;
+    color: black;
+.Tête{
+    height: 200px;
+    border-style: double;
+
+}
+#UAC
+    float: left;
+}
+#ENEAM{
+    bottom: 254px;
+    position:relative;
+    float: right;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+#site{
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    clear: both;
+}
+ul{
+    font-style: italic;
+}
+h1{
+    text-align:center;
+    font-style: italic;
+    color:green
+}
+h2{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:green;
+}
+h3{
+    text-align:justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
